@@ -33,17 +33,17 @@ const readMore = more.repeat(4001)
 
 /// Setting Dari Sini
 global.owner = [
-  ['6281282405626', 'Clayza Aubert', true],
+  ['6283159699851', 'Hoshi', true],
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283872069306'
-global.nomorown = '6281282405626'
-global.nomorown1 = '6281282405626'
-global.nomorown2 = '6281282405626'
-global.nomorwa = '6281282405626'
+global.nomorbot = '6283132747944'
+global.nomorown = '6283159699851'
+global.nomorown1 = '-'
+global.nomorown2 = '-'
+global.nomorwa = '6283159699851'
 global.readMore = readMore
-global.author = 'Clara | Clayza | Amelia'
+global.author = 'Hoshi'
 global.namebot = '​Victoria Rosalind'
 global.wm = '©Victoria Rosalind By Aubert'
 global.watermark = wm
@@ -69,12 +69,12 @@ global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/c/clayzaaubert' //youtube
 
 //Donasi/Payment
-global.pdana = '081282405626' // Dana
-global.povo = '081282405626' // Ovo
-global.pgopay = '081282405626' // Gopay
+global.pdana = '083159699851' // Dana
+global.povo = '083159699851' // Ovo
+global.pgopay = '-' // Gopay
 
 /// Api keys
-global.clayza = '' // https://api.clayzaaubert.my.id
+global.clayza = 'r9rEmky2ZW' // https://api.clayzaaubert.my.id
 
 /// TEXT
 global.stiker_wait = '_Sedang Di Proses, Mohon Tunggu_.....'
